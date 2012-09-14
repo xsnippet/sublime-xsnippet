@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+alt+p"], "command": "post_to_xsnippet" }
+]
