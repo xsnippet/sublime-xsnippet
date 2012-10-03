@@ -25,7 +25,7 @@ Example:
 
 ```bash
 git clone git://github.com/xsnippet/sublime-xsnippet.git /tmp/sublime-xsnippet
-cp -r /tmp/sublime-xsnippet/XSnippet ~/.config/sublime-text-2/Packages/
+cp -r /tmp/sublime-xsnippet/ ~/.config/sublime-text-2/Packages/
 ```
 
 
