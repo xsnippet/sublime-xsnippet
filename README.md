@@ -11,21 +11,21 @@ to paste code snippets directly from the editor.
 
 ## Usage
 
-Select some text and hit `Ctrl + Alt + p`. A link to the snippet
-is copied to the clipboard and displays in status bar.
+Select some text and hit `Alt + x + s` ( **A**lt **X**Snippet **S**end ).
+A link to the snippet is copied to the clipboard and displays in status bar.
 
 If text isn't selected the all text will be paste.
 
 
 ## Installation
 
-Just copy `XSnippet` folder into your SublimeText's `Packages` folder.
+Just clone this repo into your SublimeText's `Packages` folder.
 
 Example:
 
 ```bash
-git clone git://github.com/xsnippet/sublime-xsnippet.git /tmp/sublime-xsnippet
-cp -r /tmp/sublime-xsnippet/ ~/.config/sublime-text-2/Packages/
+git clone git://github.com/xsnippet/sublime-xsnippet.git /tmp/XSnippet
+cp -r /tmp/XSnippet/ ~/.config/sublime-text-2/Packages/
 ```
 
 
